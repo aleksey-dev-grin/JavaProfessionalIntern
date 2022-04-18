@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-04-18T14:26:29Z" name="Surefire suite" finished-at="2022-04-18T14:26:29Z" duration-ms="28">
+  <suite started-at="2022-04-18T14:47:43Z" name="Surefire suite" finished-at="2022-04-18T14:47:43Z" duration-ms="29">
     <groups>
     </groups>
-    <test started-at="2022-04-18T14:26:29Z" name="Surefire test" finished-at="2022-04-18T14:26:29Z" duration-ms="28">
+    <test started-at="2022-04-18T14:47:43Z" name="Surefire test" finished-at="2022-04-18T14:47:43Z" duration-ms="29">
       <class name="net.devcol.AppTest">
-        <test-method signature="shouldAnswerWithTrue()" started-at="2022-04-18T17:26:29Z" name="shouldAnswerWithTrue" finished-at="2022-04-18T17:26:29Z" duration-ms="13" status="PASS">
+        <test-method signature="shouldAnswerWithTrue()" started-at="2022-04-18T17:47:43Z" name="shouldAnswerWithTrue" finished-at="2022-04-18T17:47:43Z" duration-ms="12" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- shouldAnswerWithTrue -->
